@@ -15,3 +15,5 @@ engineering leadership topics and resources
 ## Engineering Strategy
 
 * [A good engineering strategy and vision is boring](https://lethain.com/good-engineering-strategy-is-boring)
+* https://multithreaded.stitchfix.com/blog/2019/08/19/framework-for-responsible-innovation/
+* https://slack.engineering/how-big-technical-changes-happen-at-slack/
