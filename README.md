@@ -21,5 +21,6 @@ engineering leadership topics and resources
 ## Education, Peer Groups, Podcasts
 
 * [ELC Peer Groups and Videos](https://sfelc.com/videos)
+  * [Podcast](https://sfelc.com/podcasts)
 * https://programmingleadership.podbean.com/
 * https://www.geepawhill.org/camerata/
